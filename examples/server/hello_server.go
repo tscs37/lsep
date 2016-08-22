@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"git.eyecikjou567.de/go/lsep"
+	"github.com/tscs37/lsep"
 )
 
 func main() {
